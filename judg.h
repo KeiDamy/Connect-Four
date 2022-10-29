@@ -1,0 +1,1 @@
+extern int judg(int bord[][7],int quan,int play);
